@@ -13,7 +13,9 @@ Consider a professor lecturing physics inclass. The class would be incomplete wi
 Here is a brief introduction to the goals of the simulation:
 
 •	Determine the variables that affect how the electric charges interact and move.
+
 •	Describe how charged bodies will interact with each other.
+
 •	Describe the strength of the electric field around an electric charge.
 
 To simulate real world phenomenon we need to represent time as our simulation clock, each time the simulation clock ticks new values for the properties are calculated for our world objects, such as new positions, electric charge, directions, force magnitude, acceleration. 
