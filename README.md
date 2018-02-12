@@ -2,7 +2,6 @@
 Electric charge simulation comprises of a physics simulation program where its main focus is simulating electric charges and electric forces.
 
 Download the [program](https://raw.githubusercontent.com/arlindiDev/ElectricChargeSimulation/master/app/out/artifacts/app_jar/app.jar) .jar file.
-
 Download my [thesis paper](https://raw.githubusercontent.com/arlindiDev/ElectricChargeSimulation/master/thesis.docx) for the simulation.
 
 ![](https://raw.githubusercontent.com/arlindiDev/ElectricChargeSimulation/master/simulation.png)
