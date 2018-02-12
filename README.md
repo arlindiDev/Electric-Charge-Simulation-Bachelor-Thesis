@@ -1,12 +1,14 @@
 # Electric Charge Simulation in Java
 Electric charge simulation comprises of a physics simulation program where its main focus is simulating electric charges and electric forces.
 
-Description
+Download
 --------
 [Program (Simulation)](https://raw.githubusercontent.com/arlindiDev/ElectricChargeSimulation/master/app/out/artifacts/app_jar/app.jar) .jar File.
 
 My [Bachelor Thesis Paper](https://raw.githubusercontent.com/arlindiDev/ElectricChargeSimulation/master/thesis.docx) for the simulation.
 
+Simulation Screenshot
+--------
 ![](https://raw.githubusercontent.com/arlindiDev/ElectricChargeSimulation/master/simulation.png)
 
 
