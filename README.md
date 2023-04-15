@@ -1,4 +1,4 @@
-# Electric Charge and Field Simulation in Java
+# Electric Charge and Electric Field Simulation in Java
 Electric charge simulation comprises of a physics simulation program where its main focus is simulating electric charges and electric forces.
 
 You can citate from this thesis from the [**official University website  citation**](https://knowledgecenter.ubt-uni.net/etd/1156/)
