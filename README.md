@@ -13,6 +13,9 @@ Simulation Screenshot
 --------
 ![](https://raw.githubusercontent.com/arlindiDev/ElectricChargeSimulation/master/simulation.png)
 
+Abstract
+-------
+Simulating physics phenomena is somewhat complicated, depending on what is to be simulated, the laws, the amount of space, the time. It all breaks down to the scale of the universe that we are going to simulate, we might want to draw objects, which means we need a screen that has pixels, a pixel size can be a meter, half a meter, millimeter or down to the smallest distance the Planck length which is 1.616199(97)×10−35, we can simulate Newtonian laws, laws of Thermodynamics, theory of relativity, particles of light and such, the more physics we want to add means the more computer power and when we add more space and time to the simulation we will need a larger computer. In another way the time is actually not simulated by computers but it’s imitated. Richard Feynman sets the following rule of simulation: the number of computer elements required to simulate a large physical system is only to be proportional to the space-time volume of the physical system. To simulate such physics we will need a Quantum computer. To simulate only electric charges and fields we can use simple computers, where the visible properties of electric charges and fields are described by variables which state are changed in time by an algorithm.
 
 Description
 --------
