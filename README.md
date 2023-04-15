@@ -7,7 +7,7 @@ Download
 --------
 [Program (Simulation)](https://raw.githubusercontent.com/arlindiDev/ElectricChargeSimulation/master/app/out/artifacts/app_jar/app.jar) .jar file.
 
-My [Bachelor Thesis Paper](https://raw.githubusercontent.com/arlindiDev/ElectricChargeSimulation/master/thesis.docx) for the simulation.
+My [Bachelor Thesis Paper](https://raw.githubusercontent.com/arlindiDev/ElectricChargeSimulation/master/Thesis.pdf) for the simulation.
 
 Simulation Screenshot
 --------
