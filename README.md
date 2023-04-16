@@ -9,9 +9,11 @@ Download
 
 My [Bachelor Thesis Paper](https://github.com/arlindiDev/Electric-Charge-Simulation-Bachelor-Thesis/blob/master/Thesis.pdf) for the simulation.
 
-Simulation Screenshot
+Simulation Screen Recording
 --------
-![](https://raw.githubusercontent.com/arlindiDev/ElectricChargeSimulation/master/simulation.png)
+
+![simulation](https://user-images.githubusercontent.com/6221337/232259364-ce19f834-aaff-460a-bfa5-1f375897a6d6.gif)
+
 
 Abstract
 -------
