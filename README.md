@@ -12,7 +12,13 @@ My [Bachelor Thesis Paper](https://github.com/arlindiDev/Electric-Charge-Simulat
 Simulation Screen Recording
 --------
 
-![simulation](https://user-images.githubusercontent.com/6221337/232259364-ce19f834-aaff-460a-bfa5-1f375897a6d6.gif)
+
+
+https://user-images.githubusercontent.com/6221337/232259462-aacaf742-acca-4aaf-b6a9-47cbdc3778a6.mp4
+
+
+
+
 
 
 Abstract
